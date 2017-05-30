@@ -1,0 +1,9 @@
+Some college writing showcasing that I at least write competently.  Following are some notes on the samples:
+
+"Sample1_Product_Summary" is an excerpt from a larger document titled "Senior_Group_Project" (which can also be found in this repo).  It is intended to describe to a non-technical audience the flow and practical application of a fully functional website which we created.  I've isolated Sample1 from the larger document because I take full credit for this this particular piece of writing and I want to be sure that you get a chance to read it without troubling you to to search through all of "Senior_Group_Project".     
+
+"Sample2_Mentorship_Everett_Middle_School" is both a summary of a recent CS mentorship program I did at Everett Middle School, followed by a series of quick and dirty journal entries I made during the program.  The audience for this piece is specifically my professors at SFSU.  As a result, I write as though the reader has some background knowledge as to what I've been doing.  Nevertheless, I offer it as something I did that I am proud of that involved me in the community, as well as a kind of prototype for how I might produce a blog.  Finally, it's at least proof I communicate in English.
+
+"Sample3_Anselm" is an old essay about one of my favorite philosophers and the effect his faith had on his famous ontological proof... included here as more proof I communicate in English.  If you dig Medieval Scholasticism lets talk :-)
+
+"Senior_Group_Project" is a sprawling 84 page attempt at documenting the website mentioned by Sample1.  It's included here for the sake of completeness.  Interested people might scroll through the first few pages to read the Executive Summary and Use Cases, both of which I had a hand in writing, but which benefited from enough group colloboration that I did not want to take full credit.  
